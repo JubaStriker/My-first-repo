@@ -1,0 +1,12 @@
+h1{
+    color:chartreuse;
+}
+h2{
+    color:lime;
+}
+h3{
+    font: normal;
+    background-color: white;
+    font-style: italic;
+    color: black;
+}
